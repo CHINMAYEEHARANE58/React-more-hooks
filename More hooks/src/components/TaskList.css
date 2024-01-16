@@ -1,0 +1,34 @@
+.container{
+    width: 40vw;
+    height: fit-content;
+    background-color: rgb(235, 228, 228);
+    border-radius: 5px;
+}
+
+h2{
+    font-size: 40px;
+    background-color: rgb(190, 143, 234);
+    border-radius: 5px 5px 0px 0px;
+}
+
+input{
+    width: 50vh;
+    height: 5vh;
+    text-align: center;
+}
+
+.toggleButton{
+    color: aliceblue;
+    margin: 20px;
+    background-color: rgb(120, 37, 197);
+}
+
+.back-to-top-button{
+    background-color: rgb(120, 37, 197);
+    color: aliceblue;
+    margin-bottom: 10px;
+}
+
+ul{
+    list-style-type: none;
+}
